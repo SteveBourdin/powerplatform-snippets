@@ -4,8 +4,8 @@
     "name": "pnp-powerplatform-snippets-progress-step",
     "version": "1.0.0.0",
     "source": "pnp",
-    "creationDateTime": "2025-04-29T00:00:00.000Z",
-    "updateDateTime": "2025-04-29T00:00:00.000Z",
+    "creationDateTime": "2026-09-01T00:00:00.000Z",
+    "updateDateTime": "2026-09-01T00:00:00.000Z",
     "title": "Progress Step",
     "shortDescription": "Visual component that displays the progression of a multi‑step process",
     "longDescription": [
