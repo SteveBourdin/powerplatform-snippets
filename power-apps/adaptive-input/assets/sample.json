@@ -36,7 +36,7 @@
       {
         "type": "image",
         "order": 100,
-        "url": "https://raw.githubusercontent.com/pnp/powerplatform-snippets/main/power-apps/adaptive-input/assets/adaptive-input.gif",
+        "url": "https://github.com/SteveBourdin/powerplatform-snippets/blob/f61dce10acecaab221e16ff2339daba58b8dccf3/power-apps/adaptive-input/assets/adaptive-input.png",
         "alt": "Preview PNG"
       }
     ],
